@@ -1,4 +1,4 @@
-import logo from './next-js.svg';
+import logo from './logo.svg';
 import './App.css';
 
 function App() {
